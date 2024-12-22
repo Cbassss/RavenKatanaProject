@@ -1,2 +1,2 @@
 # RavenKatanaProject
-Arduino code for katana project. Katana pulses and can be turned on/off by button
+Arduino code for katana project. Katana pulses and can be turned on/off by button. Katana Comes in 3 parts: bottom, top, and blade. The bottom holds an arduino uno and a small breadboard, the top holds a RGB LED, and the blade goes in the top hole and around the LED. Blade designed to be printed in clear filliment (I used a SLA printer with clear filiment). Top and Bottom parts designed to be printed in regular colored PLA.
